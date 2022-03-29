@@ -1,0 +1,12 @@
+title: Edward Loo # your name (or website title) here
+logo: "/images/1.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  A motivated and objective-oriented Mechanical Engineering graduate who is passionate about structural dynamics, 
+  acoustics and vibration for continuous learning and career development in product development, engineering analysis or data science applications. 
+  <br><br>
+  Hi, nice to meet you and I am looking forward to picking up the bits and bats of future journeys.
+  <br><br>
+  <a href="https://www.linkedin.com/in/loo-han-pin/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
